@@ -12,7 +12,7 @@ const submenus = [
 
 const researchUnits = [
     {
-        name: "Unit of Software and Hardware Technologies for AI",
+        name: "Software and Hardware Technologies for AI",
         description: "Focuses on AI subfields like Machine Learning, NLP, and Computer Vision.",
         icon: "💻",
         content: (
