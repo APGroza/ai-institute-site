@@ -17,7 +17,7 @@ export default function TimelinePage() {
         {
             date: "2023-06-10",
             title: "Groundbreaking Ceremony",
-            description: "Official groundbreaking ceremony for the construction of the AI Institute building, attended by university officials and local dignitaries.",
+            description: "Official ceremony for the construction of the AI Institute building, attended by university officials and local dignitaries.",
             icon: <FaUserTie />,
         },
         {
