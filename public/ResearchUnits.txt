@@ -1,11 +1,11 @@
 
 Research Units:
-    1. Unit of Software and Hardware Technologies for AI
-    2. Unit of Intelligent and Autonomous Systems
-    3. Unit of Microelectronics
-    4. Unit of Intelligent Applications in Cybersecurity and Space
-    5. Unit of Robotics and Industrial IoT (I-IoT)
-    6. Unit of Medical Technologies
+    1. Software and Hardware Technologies for AI
+    2. Intelligent and Autonomous Systems
+    3. Microelectronics
+    4. Intelligent Applications in Cybersecurity and Space
+    5. Robotics and Industrial IoT (I-IoT)
+    6. Medical Technologies
 
 1. The Unit of Software and Hardware Technologies for AI
 The unit consists of laboratories covering key subfields of artificial intelligence, including Intelligent Agents, Machine Learning, Knowledge Engineering and Reasoning, Semantic Web, Natural Language Processing, Deep Learning-based Computer Vision, Human-Machine Verbal Communication Technologies, and Data Science.
